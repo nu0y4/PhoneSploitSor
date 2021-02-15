@@ -6,5 +6,7 @@
 - pip3 install colorama
 
 使用教程：
-- python3 phonesploit.py# phone_sploit_sor
-# phone_sploit_sor
+- python3 phonesploit.py
+
+修改说明：
+![Image text](../pic/1.png)
