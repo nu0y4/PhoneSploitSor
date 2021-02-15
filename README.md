@@ -9,4 +9,4 @@
 - python3 phonesploit.py
 
 修改说明：
-![Image text](../pic/1.png)
+![Image text](/pic/1.png)
